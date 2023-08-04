@@ -1,0 +1,71 @@
+/*  CSS for index.html  */
+
+/* hero */
+
+.hero{
+    color: var(--primary-bg-color);
+    background-color: #2E2F42;
+    text-align: center;
+    font-weight: 700;
+}
+
+.btn.hero{
+    color: var(--primary-bg-color);
+    background-color: var(--logo-color);
+}
+
+.section-title{
+    color: var(--text-header-color);
+}
+
+/* Featurs */
+
+.features-list .title{
+    color: var(--text-header-color);
+}
+
+.features-list {
+    list-style: none;
+}
+
+/* work */
+
+.work-list{
+    list-style: none;
+}
+
+/* Team */
+
+.team-list .title{
+    color: var(--text-header-color);
+}
+
+.team-list{
+    list-style: none;
+}
+
+/*  CSS for portfolio.html */
+
+/* Section with button */
+
+.section-btn ul{
+    list-style: none;
+}
+
+.btn{
+    color: var(--logo-color);
+    background-color: var(--btn-bg-color);
+    border: none;
+}
+
+/* section with img */
+
+.section-portfolio ul{
+    list-style: none;
+}
+
+
+.link{
+    text-decoration: none;
+    color: inherit;
+}
